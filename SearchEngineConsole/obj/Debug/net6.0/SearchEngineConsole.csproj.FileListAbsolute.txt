@@ -1,0 +1,54 @@
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.exe
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.deps.json
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.runtimeconfig.json
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\source\repos\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.AssemblyReference.cache
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfoInputs.cache
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfo.cs
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CopyComplete
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\refint\SearchEngineConsole.dll
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.genruntimeconfig.cache
+C:\Users\Paras1610\source\repos\SearchEngineConsole\obj\Debug\net6.0\ref\SearchEngineConsole.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.deps.json
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.runtimeconfig.json
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfoInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfo.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\refint\SearchEngineConsole.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.genruntimeconfig.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngineConsole\obj\Debug\net6.0\ref\SearchEngineConsole.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.exe
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.deps.json
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.runtimeconfig.json
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.AssemblyReference.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfoInputs.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.AssemblyInfo.cs
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CoreCompileInputs.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.csproj.CopyComplete
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\refint\SearchEngineConsole.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.pdb
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\SearchEngineConsole.genruntimeconfig.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngineConsole\obj\Debug\net6.0\ref\SearchEngineConsole.dll

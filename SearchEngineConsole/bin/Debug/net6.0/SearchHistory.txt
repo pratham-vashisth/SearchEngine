@@ -1,0 +1,2 @@
+E:\\paras\ffff.txt
+E:\\CMD\CMD\CMD.csproj

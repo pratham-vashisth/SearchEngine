@@ -1,0 +1,501 @@
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.sln
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Business\CMD.Appoinment.Business.csproj
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Business\obj\Debug\CMD.Appoinment.Business.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.DTO\CMD.Appoinment.DTO.csproj
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.DTO\obj\Debug\CMD.Appoinment.DTO.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Model\CMD.Appoinment.Model.csproj
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Model\obj\Debug\CMD.Appoinment.Model.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Repository\CMD.Appoinment.Repository.csproj
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Repository\obj\Debug\CMD.Appoinment.Repository.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Service\CMD.Appoinment.Service.csproj
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Service\CMD.Appoinment.Service.csproj.user
+D:\\CMD REAL\CMD.Appoinment.Service\CMD.Appoinment.Service\obj\Debug\CMD.Appoinment.Service.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.sln
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\CMD.Doctor.Business.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Business.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Business.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.DTO.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.DTO.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Repository.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Repository.dll.config
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\bin\Debug\CMD.Doctor.Repository.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.csproj.CopyComplete
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Business\obj\Debug\CMD.Doctor.Business.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\CMD.Doctor.DTOs.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\bin\Debug\CMD.Doctor.DTO.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\bin\Debug\CMD.Doctor.DTO.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DataContract.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTO.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTO.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTO.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTO.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTO.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTOs.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTOs.csproj.CopyComplete
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTOs.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.DTO\obj\Debug\CMD.Doctor.DTOs.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\CMD.Doctor.Model.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\bin\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\bin\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.csproj.CopyComplete
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Model\obj\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\CMD.Doctor.Repository.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\bin\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\bin\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\bin\Debug\CMD.Doctor.Repository.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\bin\Debug\CMD.Doctor.Repository.dll.config
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\bin\Debug\CMD.Doctor.Repository.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.csproj.CopyComplete
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.csproj.GenerateResource.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.Migrations.init.resources
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.Migrations.InitialCreate.resources
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Repository\obj\Debug\CMD.Doctor.Repository.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\CMD.Doctor.Service.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\CMD.Doctor.Service.csproj.user
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Business.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Business.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.DTO.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.DTO.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Repository.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Repository.dll.config
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Repository.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Service.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Service.dll.config
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\bin\Debug\CMD.Doctor.Service.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.csproj.CopyComplete
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.dll
+D:\\CMD REAL\CMD.Doctor\CMD.Doctor.Service\obj\Debug\CMD.Doctor.Service.pdb
+D:\\CMD REAL\CMD.Doctor\CMD.DoctorIISHost\CMD.DoctorIISHost.csproj
+D:\\CMD REAL\CMD.Doctor\CMD.DoctorIISHost\CMD.DoctorIISHost.csproj.user
+D:\\CMD REAL\CMD.Doctor\CMD.DoctorIISHost\obj\Debug\CMD.DoctorIISHost.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Business.dll
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Business.pdb
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.DTO.dll
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.DTO.pdb
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Model.dll
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Model.pdb
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Repository.dll
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Repository.dll.config
+D:\\CMD REAL\CMD.Doctor\TrialDoctorConsole\bin\Debug\CMD.Doctor.Repository.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.sln
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\CMD.Patients.Business.csproj
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Business.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Business.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.DTO.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.DTO.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Model.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Model.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Repository.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\bin\Debug\CMD.Patients.Repository.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.csproj.CopyComplete
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Business\obj\Debug\CMD.Patients.Business.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\CMD.Patients.DataContracts.csproj
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\bin\Debug\CMD.Patients.DTO.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\bin\Debug\CMD.Patients.DTO.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DataContracts.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DTO.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DTO.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DTO.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DTO.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.DTO\obj\Debug\CMD.Patients.DTO.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\CMD.Patients.Model.csproj
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\bin\Debug\CMD.Patients.Model.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\bin\Debug\CMD.Patients.Model.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\obj\Debug\CMD.Patients.Model.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\obj\Debug\CMD.Patients.Model.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\obj\Debug\CMD.Patients.Model.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\obj\Debug\CMD.Patients.Model.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Model\obj\Debug\CMD.Patients.Model.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\CMD.Patients.Repository.csproj
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Model.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Model.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\CMD.Patients.Service.csproj
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\CMD.Patients.Service.csproj.user
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Business.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Business.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Repository.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Repository.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.dll.config
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.pdb
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.CopyComplete
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.CoreCompileInputs.cache
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.FileListAbsolute.txt
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.dll
+D:\\CMD REAL\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.pdb
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Business.dll
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Business.pdb
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.DTO.dll
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.DTO.pdb
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Model.dll
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Model.pdb
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Repository.dll
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Repository.pdb
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Service.dll
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Service.dll.config
+D:\\CMD REAL\CMD.Patients\TrialConsoleApp\bin\Debug\CMD.Patients.Service.pdb
+D:\\CMD REAL\CMDClient\CMDClient.sln
+D:\\CMD REAL\CMDClient\.vs\ProjectEvaluation\cmdclient.metadata.v5.1
+D:\\CMD REAL\CMDClient\.vs\ProjectEvaluation\cmdclient.projects.v5.1
+D:\\CMD REAL\CMDClient\CMDServiceFacade\CMDServiceFacade.csproj
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\CMDServiceFacade.csproj.nuget.dgspec.json
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\CMDServiceFacade.csproj.nuget.g.props
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\CMDServiceFacade.csproj.nuget.g.targets
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.AssemblyInfo.cs
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.AssemblyInfoInputs.cache
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.assets.cache
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\\CMD REAL\CMDClient\CMDServiceFacade\obj\Debug\net6.0\CMDServiceFacade.GlobalUsings.g.cs
+D:\\CMD REAL\CMDClient\CMD_Client_Core\CMD_Client.csproj
+D:\\CMD REAL\CMDClient\CMD_Client_Core\CMD_Client.csproj.user
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\CMD_Client_Core.csproj.nuget.dgspec.json
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\CMD_Client_Core.csproj.nuget.g.props
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\CMD_Client_Core.csproj.nuget.g.targets
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client.AssemblyInfo.cs
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client.AssemblyInfoInputs.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client.assets.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.AssemblyInfo.cs
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.AssemblyInfoInputs.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.assets.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.csproj.AssemblyReference.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.designer.deps.json
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.designer.runtimeconfig.json
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_Core_MarkupCompile.i.cache
+D:\\CMD REAL\CMDClient\CMD_Client_Core\obj\Debug\net6.0-windows\CMD_Client_MarkupCompile.i.cache
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\PatientHost\bin\Debug\WcfCmdService1.dll
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\PatientHost\bin\Debug\WcfCmdService1.dll.config
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\PatientHost\bin\Debug\WcfCmdService1.pdb
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\WcfCmdService1.csproj
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\WcfCmdService1.csproj.user
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\WcfCmdService1.sln
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\bin\Debug\WcfCmdService1.dll
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\bin\Debug\WcfCmdService1.dll.config
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\bin\Debug\WcfCmdService1.pdb
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\obj\Debug\WcfCmdService1.csproj.AssemblyReference.cache
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\obj\Debug\WcfCmdService1.csproj.CoreCompileInputs.cache
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\obj\Debug\WcfCmdService1.csproj.FileListAbsolute.txt
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\obj\Debug\WcfCmdService1.dll
+D:\\Demos\BankOfSuccessProject\ConnectMyDoc\WcfDemos\WcfCmdService1\obj\Debug\WcfCmdService1.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.AppointMents.sln
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\CMD.Appointments.BusinessLogic.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.BusinessLogic.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.DTOs.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\bin\Debug\CMD.Appointments.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.BusinessLogic\obj\Debug\CMD.Appointments.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\CMD.Appointments.DTOs.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\bin\Debug\CMD.Appointments.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\bin\Debug\CMD.Appointments.DTOs.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\bin\Debug\CMD.Appointments.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.DTOs\obj\Debug\CMD.Appointments.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\CMD.Appointments.Models.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\bin\Debug\CMD.Appointments.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\bin\Debug\CMD.Appointments.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\bin\Debug\CMD.Appointments.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Models\obj\Debug\CMD.Appointments.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\CMD.Appointments.Repository.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\bin\Debug\CMD.Appointments.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.csproj.GenerateResource.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.Migrations.init.resources
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Repository\obj\Debug\CMD.Appointments.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\CMD.Appointments.Service.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\CMD.Appointments.Service.csproj.user
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\bin\Debug\CMD.Appointments.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMD.AppointMents\CMD.Appointments.Service\obj\Debug\CMD.Appointments.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend.sln
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend.zip
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\.vs\ProjectEvaluation\cmdfrontend.metadata.v5.1
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\.vs\ProjectEvaluation\cmdfrontend.projects.v5.1
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\CMDFrontend.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.exe
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_Content.g.i.cs
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.i.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.i.lref
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\ConsoleApp1\bin\Debug\CMDFrontend.exe
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\ConsoleApp1\bin\Debug\CMDFrontend.exe.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\CMDFrontend\ConsoleApp1\bin\Debug\CMDFrontend.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.sln
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\CMD.DoctorIIsHost.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\CMD.DoctorIIsHost.csproj.user
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.DoctorIIsHost.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.DoctorIIsHost.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.DoctorIIsHost.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Service.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\bin\CMD.Doctors.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.DoctorIIsHost\obj\Debug\CMD.DoctorIIsHost.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\CMD.Doctors.BusinessLogic.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\bin\Debug\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.BusinessLogic\obj\Debug\CMD.Doctors.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\CMD.Doctors.DTOs.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\bin\Debug\CMD.Doctors.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\bin\Debug\CMD.Doctors.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\obj\Debug\CMD.Doctors.DTOs.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\obj\Debug\CMD.Doctors.DTOs.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\obj\Debug\CMD.Doctors.DTOs.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\obj\Debug\CMD.Doctors.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.DTOs\obj\Debug\CMD.Doctors.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\CMD.Doctors.Models.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\bin\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\bin\Debug\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\bin\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Models\obj\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\CMD.Doctors.Repository.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.GenerateResource.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.Migrations.init.resources
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\CMD.Doctors.Service.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\CMD.Doctors.Service.csproj.user
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Service.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\bin\Debug\CMD.Doctors.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Service\obj\Debug\CMD.Doctors.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Doctors\Temporary\bin\Debug\CMD.Doctors.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.sln
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\CMD.Patients.BusinessLogic.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\bin\Debug\CMD.Patients.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Debug\CMD.Patients.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.BusinessLogic\obj\Release\CMD.Patients.BusinessLogic.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\CMD.Patients.DTOs.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Release\CMD.Patients.DTOs.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\CMD.Patients.Models.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\bin\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\bin\Debug\CMD.Patients.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\bin\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Models\obj\Release\CMD.Patients.Models.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\CMD.Patients.Repository.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Release\CMD.Patients.Repository.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\CMD.Patients.Service.csproj
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\CMD.Patients.Service.csproj.user
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.BusinessLogic.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.BusinessLogic.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.DTOs.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.DTOs.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Repository.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\bin\Debug\CMD.Patients.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.CopyComplete
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.CoreCompileInputs.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.csproj.FileListAbsolute.txt
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Debug\CMD.Patients.Service.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Service\obj\Release\CMD.Patients.Service.csproj.AssemblyReference.cache
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Models.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Models.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Models.pdb
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Repository.dll
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Repository.dll.config
+D:\\PJCMDUPDATED\Final CMD code\CMDproject\Project\CMD.Patients\ConsoleApp1\bin\Debug\CMD.Patients.Repository.pdb

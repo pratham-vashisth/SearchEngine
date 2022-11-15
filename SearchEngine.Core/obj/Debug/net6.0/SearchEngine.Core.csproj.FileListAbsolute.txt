@@ -1,0 +1,36 @@
+C:\Users\Paras1610\source\repos\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.deps.json
+C:\Users\Paras1610\source\repos\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\source\repos\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.AssemblyReference.cache
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfoInputs.cache
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfo.cs
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\refint\SearchEngine.Core.dll
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\source\repos\SearchEngine.Core\obj\Debug\net6.0\ref\SearchEngine.Core.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.deps.json
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfoInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfo.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\refint\SearchEngine.Core.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\SearchEngine\SearchEngine.Core\obj\Debug\net6.0\ref\SearchEngine.Core.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.deps.json
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.AssemblyReference.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfoInputs.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfo.cs
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\refint\SearchEngine.Core.dll
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.pdb
+C:\Users\prthm\Desktop\gitPull\Search Engine\cmd_ui\SearchEngine.Core\obj\Debug\net6.0\ref\SearchEngine.Core.dll
